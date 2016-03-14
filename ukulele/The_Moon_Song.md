@@ -29,7 +29,7 @@
 
 ```
 ▬ : nut 
-ⓧ : no use 
+ⓧ : desuetude
 ```
 
 ` Fingers Symbols here represent your left hand. `
